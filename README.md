@@ -1,5 +1,3 @@
-# menghitung-besar-cicilan-berdasar-jumlah-hutang
-tugas UTS
 <h1>MENGHITUNG BESARAN CICILAN BERDASARKAN JUMLAH HUTANG<h1>
   <h4>
     ANGGOTA KELOMPOK: <br/>
